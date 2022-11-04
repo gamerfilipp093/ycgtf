@@ -1,1 +1,2 @@
+paint ("ebed")
 paint ("eqrh")
